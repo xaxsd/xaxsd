@@ -1,69 +1,48 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDk2dGJmY2R4Z3F5eW4ya2VlZTF6Y2VjY3B6bnRqYzN0aGJ6eWZ0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+## Привіт, світе! 👋 Я - Максим Римар
 
-###
-
-<div align="center">
-  <a href="[ТВОЄ ПОСИЛАННЯ НА LINKEDIN]" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<h1 align="center">Привіт, я Максим 👋</h1>
-
-###
-
-<h3 align="left">👨‍💻 Про мене</h3>
-
-###
-
-<p align="left">
-Я студент з України, що вивчає інформаційні технології. Зараз навчаюсь на техніка з управління та програмування інформаційних систем.<br><br>
-  
-- 🔭 Працюю над: власними проектами для портфоліо<br>
-- 🌱 Вивчаю: Python, Java, C#, веб-розробку<br>
-- ⚡ Захоплення: 3D-графіка в Blender, розробка ігор<br>
-- 📫 Як зв'язатись: [твій email або соцмережі]
+<p align="center">
+  <img width="53%" src="https://github-readme-stats.vercel.app/api?username=MaksymRymar&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"/>
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaksymRymar&layout=compact&langs_count=8&theme=blueberry&hide_border=true"/>
 </p>
 
-###
+---
 
-<h3 align="left">🛠 Технології та інструменти</h3>
+### 🛠 Технології та інструменти
 
-###
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>&nbsp;
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>&nbsp;
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>&nbsp;
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>&nbsp;
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>&nbsp;
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>&nbsp;
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>&nbsp;
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>&nbsp;
+  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black" alt="Unity"/>&nbsp;
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"/>
-</div>
+---
 
-###
+### 👨‍💻 Про мене
 
-<h3 align="left">🔥 Моя статистика</h3>
+Я студент технікуму, що вивчаю технології програмування та інформаційні системи. Мої основні інтереси:
+- 🎓 Навчаюсь на спеціальності "Управління та програмування інформаційних систем"
+- 💻 Активно вивчаю Python, Java, C# та веб-розробку
+- 🎮 Захоплююсь розробкою ігор та 3D-моделюванням
+- 🔧 Працюю з: VirtualBox, Visual Paradigm, Godot Engine
 
-###
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ТВІЙ_НІК&show_icons=true&theme=radical" alt="Статистика GitHub"/>
-  <img src="https://streak-stats.demolab.com?user=ТВІЙ_НІК&theme=dark" alt="Стрік комітів"/>
-</div>
+### 📫 Як зв'язатися
+
+<p align="left">
+  <a href="mailto:ваша_пошта@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ваш_профіль/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+![Snake animation](https://github.com/MaksymRymar/MaksymRymar/blob/output/github-contribution-grid-snake.svg)
