@@ -1,8 +1,8 @@
 ## Привіт, світе! 👋 Я - Максим Римар
 
 <p align="center">
-  <img width="53%" src="https://github-readme-stats.vercel.app/api?username=MaksymRymar&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"/>
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaksymRymar&layout=compact&langs_count=8&theme=blueberry&hide_border=true"/>
+  <img width="53%" src="https://github-readme-stats.vercel.app/api?username=xaxsd&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"/>
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xaxsd&layout=compact&langs_count=8&theme=blueberry&hide_border=true"/>
 </p>
 
 ---
