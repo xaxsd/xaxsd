@@ -1,4 +1,4 @@
-## Привіт, світе! 👋 Я - Максим Римар
+##  Olá, mundo! 👋 Eu sou Maksym Rymar
 
 <p align="center">
   <img width="53%" src="https://github-readme-stats.vercel.app/api?username=xaxsd&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"/>
@@ -7,7 +7,7 @@
 
 ---
 
-### 🛠 Технології та інструменти
+### 🛠 Tecnologias e ferramentas
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>&nbsp;
@@ -24,17 +24,7 @@
 
 ---
 
-### 👨‍💻 Про мене
-
-Я студент технікуму, що вивчаю технології програмування та інформаційні системи. Мої основні інтереси:
-- 🎓 Навчаюсь на спеціальності "Управління та програмування інформаційних систем"
-- 💻 Активно вивчаю Python, Java, C# та веб-розробку
-- 🎮 Захоплююсь розробкою ігор та 3D-моделюванням
-- 🔧 Працюю з: VirtualBox, Visual Paradigm, Godot Engine
-
----
-
-### 📫 Як зв'язатися
+### 📫 Como contactar
 
 <p align="left">
   <a href="mailto:xaxsdxaxsd76@gmail.com" target="_blank">
